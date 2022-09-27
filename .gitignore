@@ -1,0 +1,4 @@
+# dot files
+/.luatide
+/buckup
+luatide_project.json
